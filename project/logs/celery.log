@@ -1,0 +1,62 @@
+[2024-07-13 14:11:30,105: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-07-13 14:11:30,119: INFO/MainProcess] mingle: searching for neighbors
+[2024-07-13 14:11:31,151: INFO/MainProcess] mingle: all alone
+[2024-07-13 14:11:31,169: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2024-07-13 14:11:31,170: INFO/MainProcess] celery@323d418b15af ready.
+[2024-07-13 14:16:03,497: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-07-13 14:16:03,505: INFO/MainProcess] mingle: searching for neighbors
+[2024-07-13 14:16:04,520: INFO/MainProcess] mingle: all alone
+[2024-07-13 14:16:04,546: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2024-07-13 14:16:04,547: INFO/MainProcess] celery@ffd557f2752f ready.
+[2024-07-13 14:18:02,894: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-07-13 14:18:02,905: INFO/MainProcess] mingle: searching for neighbors
+[2024-07-13 14:18:03,920: INFO/MainProcess] mingle: all alone
+[2024-07-13 14:18:03,937: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2024-07-13 14:18:03,938: INFO/MainProcess] celery@241da3c86460 ready.
+[2024-07-13 14:18:08,562: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-07-13 14:19:18,391: INFO/MainProcess] Task tasks.sample_tasks.create_task[40f4224b-db2f-4a26-8e3d-2512fd419933] received
+[2024-07-13 14:19:18,411: INFO/ForkPoolWorker-7] Task tasks.sample_tasks.create_task[40f4224b-db2f-4a26-8e3d-2512fd419933] succeeded in 0.01434574399900157s: True
+[2024-07-13 14:19:20,291: INFO/MainProcess] Task tasks.sample_tasks.create_task[85a6f9a8-0b49-4bc2-a874-617831dc8d9c] received
+[2024-07-13 14:19:20,294: INFO/ForkPoolWorker-7] Task tasks.sample_tasks.create_task[85a6f9a8-0b49-4bc2-a874-617831dc8d9c] succeeded in 0.001082661998225376s: True
+[2024-07-13 14:19:32,689: INFO/MainProcess] Task tasks.sample_tasks.create_task[e585baf5-205a-4a5f-af53-9111d96c1098] received
+[2024-07-13 14:19:32,692: INFO/ForkPoolWorker-7] Task tasks.sample_tasks.create_task[e585baf5-205a-4a5f-af53-9111d96c1098] succeeded in 0.001068778001354076s: True
+[2024-07-13 14:21:50,103: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-07-13 14:21:50,137: INFO/MainProcess] mingle: searching for neighbors
+[2024-07-13 14:21:50,646: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-07-13 14:21:50,673: INFO/MainProcess] mingle: searching for neighbors
+[2024-07-13 14:21:51,224: INFO/MainProcess] mingle: all alone
+[2024-07-13 14:21:51,241: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-07-13 14:21:51,257: INFO/MainProcess] mingle: searching for neighbors
+[2024-07-13 14:21:51,267: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2024-07-13 14:21:51,272: INFO/MainProcess] celery@fa4790ee6fc8 ready.
+[2024-07-13 14:21:51,284: INFO/MainProcess] sync with celery@fc9f2e826d34
+[2024-07-13 14:21:51,757: INFO/MainProcess] mingle: all alone
+[2024-07-13 14:21:51,796: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2024-07-13 14:21:51,803: INFO/MainProcess] celery@1fdf303f8818 ready.
+[2024-07-13 14:21:52,321: INFO/MainProcess] mingle: sync with 1 nodes
+[2024-07-13 14:21:52,323: INFO/MainProcess] mingle: sync complete
+[2024-07-13 14:21:52,356: WARNING/MainProcess] /usr/local/lib/python3.11/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2024-07-13 14:21:52,357: INFO/MainProcess] celery@fc9f2e826d34 ready.
+[2024-07-13 14:21:53,226: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-07-13 14:21:53,226: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-07-13 14:21:53,226: INFO/MainProcess] Events of group {task} enabled by remote.
+[2024-07-13 14:39:07,087: INFO/MainProcess] Task tasks.sample_tasks.create_task[60ec64df-5088-4f65-87cc-47fad452a96b] received
+[2024-07-13 14:39:07,098: INFO/ForkPoolWorker-7] Task tasks.sample_tasks.create_task[60ec64df-5088-4f65-87cc-47fad452a96b] succeeded in 0.007049769003060646s: True

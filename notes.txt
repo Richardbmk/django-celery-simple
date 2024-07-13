@@ -1,0 +1,2 @@
+if you fin issue with the ENTRYPOINT ["/usr/src/app/entrypoint.sh"] run this command:
+$ dos2unix ./project/entrypoint.sh
